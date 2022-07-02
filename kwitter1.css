@@ -1,0 +1,34 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #33f15c, #25d94f, #18c17b, #0aaa37, #00943e);
+}
+
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 50px;letter-spacing: 15px;margin-top: 85px;
+}
+.header img
+{
+	width: 85px;margin-left: -20px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 20px;
+}
+
+.logo
+{
+	width: 85px;margin-top: 35px;border-radius: 45px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 20px;
+}
